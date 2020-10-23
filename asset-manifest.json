@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux-tutorial/static/css/main.60f3dff1.chunk.css",
+    "main.js": "/redux-tutorial/static/js/main.d153e75c.chunk.js",
+    "main.js.map": "/redux-tutorial/static/js/main.d153e75c.chunk.js.map",
+    "runtime-main.js": "/redux-tutorial/static/js/runtime-main.24c71a83.js",
+    "runtime-main.js.map": "/redux-tutorial/static/js/runtime-main.24c71a83.js.map",
+    "static/js/2.87a686e9.chunk.js": "/redux-tutorial/static/js/2.87a686e9.chunk.js",
+    "static/js/2.87a686e9.chunk.js.map": "/redux-tutorial/static/js/2.87a686e9.chunk.js.map",
+    "index.html": "/redux-tutorial/index.html",
+    "precache-manifest.de28a4a4746d3316620c5001117503f5.js": "/redux-tutorial/precache-manifest.de28a4a4746d3316620c5001117503f5.js",
+    "service-worker.js": "/redux-tutorial/service-worker.js",
+    "static/css/main.60f3dff1.chunk.css.map": "/redux-tutorial/static/css/main.60f3dff1.chunk.css.map",
+    "static/js/2.87a686e9.chunk.js.LICENSE.txt": "/redux-tutorial/static/js/2.87a686e9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/redux-tutorial/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c71a83.js",
+    "static/js/2.87a686e9.chunk.js",
+    "static/css/main.60f3dff1.chunk.css",
+    "static/js/main.d153e75c.chunk.js"
+  ]
+}
